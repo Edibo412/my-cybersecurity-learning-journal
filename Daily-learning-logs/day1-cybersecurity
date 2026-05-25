@@ -1,0 +1,17 @@
+What I did today:
+   -learnt about cybersecurity basics
+   -started a learning journey on github
+   -setup github and a repo on Kali
+
+What i learnt today:
+   -Cybersecurity is about protecting computers,devices and networks from digital attacks and unauthorised access.
+   -Jobroles in cybersecurity:SOC analyst,penetration testers, digital forensics,security engineers,etc
+   -CIA triad and their importance,NIST cybersecurity frame work and importance
+   -Riskmanagement: handling threats,risks and vulnerabilities
+       risk=threat x vulnerability x impact
+   -Components of risk:threats,vulnerability,likelihood,impact
+
+tools used: kali linux, git and github
+
+next goal: risk management strategy and threat intelligence
+
