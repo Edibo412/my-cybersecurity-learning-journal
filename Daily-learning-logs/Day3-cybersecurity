@@ -1,0 +1,16 @@
+I learnt the basics of linux and kali linux,practicing basic commands like:
+cat
+touch
+cd
+cd ..
+nano
+mkdir
+ping
+i created files and folders,viewed file content,pinged IP addresses,etc
+
+What I did today:
+- used a single command string to create a new directory and then immediately move an existing file into it
+- created a folder in the document folder,created three other folders in that folder and duplicated a file across all the new folders
+
+Next step:
+  practice more commands and get used to the kali environment
