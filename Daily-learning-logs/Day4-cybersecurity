@@ -1,0 +1,21 @@
+NETWORK ARCHITECTURE
+
+What i learnt:
+   common cyber attacks like
+- sniffing: monitoring and capturing packets as they travel across a network. Eg passive and active sniffing
+- MITM(man in the middle) attack: an adversary positioning themselves to intercept communication between two parties to exploit sensitive information, manipulate transactions and launch attacks.
+
+  IDS & IPS
+-IDS: monitors network or host traffic,looks for suspicious activities.
+-IPS: blocks or stops malicious traffic in real time.
+
+  NETWORK Segmentation
+It helps to split network into VLANs so that not all devices can interact with each other freely
+eg. it seperates guest wifi from internal cooperate network
+
+
+WHAT I DD:
+- learnt how to wireshark: an open source analysing tool that helps to capture and analyse traffic.(HTTP)
+- learnt about file signatures and practically anysed a pcap file using wireshark.
+
+Tools used: wireshark,Digital Investigaton pcap file  
