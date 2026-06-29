@@ -1,0 +1,19 @@
+What I Learnt:
+  KALI COMMAND-Super userdo (sudo)
+"sudo" helps to perform task an admin can perform 
+
+Commands i learnt and used:
+  command for root(whoami),to create users,delete users,find password,add group,view users and group,assign users,remove users from groups,view groups a user is assigned to,
+Giving permissions: read,write,execute(4,2,1,0)
+Permission owners: users/owners,groups and others
+
+"chmod","chown": commands used to assign permission and change ownership respectively
+
+a-all,g-group,o-others,u-users
+
+WHAT I DID
+-used sudo,chmod,chown to change modifications, and assigned ownership on different files and groups
+-gave user permission for windows,and used event viewer
+
+TOOLS USED
+kali,VM ware,Event viewer,command prompt 
