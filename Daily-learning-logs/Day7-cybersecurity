@@ -1,0 +1,34 @@
+WHAT I LEARNT TODAY
+
+_Assets
+-Legal frameworks
+
+Asset- anything valuable eg Data,devices,users,systems,information
+Data classification: Identifying data based on sensitivity value and impact of loss, also assigns label to data .
+
+Common levels:-Public
+              -Internal 
+              -Confidential
+              -Restricted
+Security control:
+These are the defences put in place to protect assests 
+Key Security control:-Encryption
+                     -Data loss prevention
+                     -Access control
+
+
+Legal frameworks: 
+    Key regulations:GDPR,HIPAA,PCI-DSS
+Why compliance matters-Avoiding fines,legal protection,loss of trust,competitive advantage
+
+GDPR:Genaral Data Protection Regulation
+    focus-Data privacy and protection of Europeans' data
+    Companies that breach this rule have 72 hours to report to GDPR and face penalties up to 20 million Euros or 4% of global turnover,whichever is higher
+
+HIPAA: Health Insurance Portability and Accountability Act
+      It applies to anyone handling US patient health data.
+      Privacy rule: controls who can see  PHI (Protected Health Information)
+      Penlties upto 1.5 million dollars per violation type as breach rule
+PCI-DSS: Payment Card Industry Data Security Standard
+        Applies to any organization that processes credit/debit card data to prevent payment fraud, encrypt card holder data,etc
+penalty if breached: 5000 to 100000 dollars per month + loss of ability to process cards
