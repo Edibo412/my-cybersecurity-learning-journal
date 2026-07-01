@@ -1,0 +1,39 @@
+VERACRYPT
+
+What I Learnt;
+ Learnt VeraCrypt: Data Encryption Lab
+
+
+ Key Concepts Learnt:
+* Volume Encryption: Creating a virtual encrypted disk within a file (an encrypted container).
+* Encryption Algorithms: Utilizing strong industry-standard protocols like AES-256
+* Hash Algorithms: Implementing SHA-512 or Whirlpool for key derivation.
+* Denial of Service/Plausible Deniability: Understanding how VeraCrypt allows the creation of hidden volumes inside normal volumes so an adversary cannot prove an encrypted container exists.
+
+What I did;
+ 1. Creating an Encrypted Container
+* Launched the VeraCrypt Volume Creation Wizard.
+* Selected "Create an encrypted file container" (Standard VeraCrypt volume).
+* Allocated a specific size for the container (e.g., 500 MB) and chose a storage location.
+* Selected the AES  encryption algorithm and SHA-512 hash algorithm.
+* Set a strong, complex password to secure the volume.
+
+ 2. Mounting and Using the Volume
+* Selected a drive letter (e.g X:) in the VeraCrypt main interface.
+* Selected the newly created container file and clicked Mount.
+* Entered the correct password to decrypt and open the virtual drive.
+* Result: The drive appeared in Windows File Explorer as a usable local disk. I successfully moved files into it, knowing they are encrypted in real-time.
+
+ 3. Dismounting the Volume
+* Selected the drive letter in VeraCrypt and clicked Dismount
+* The virtual drive disappeared from the system, leaving the files fully encrypted and inaccessible without the master passphrase.
+
+ Takeaways
+* *Data-at-Rest Protection:* Essential for securing sensitive corporate data on physical endpoints, laptops, and external backup drives.
+* *Pre-Boot Authentication:* VeraCrypt can also encrypt entire system partitions, forcing a password prompt before the Operating System even boots up to prevent physical tampering.
+* *Defense in Depth:* Even if an attacker gains physical access to a machine or storage drive, strong encryption ensures the underlying data remains unreadable.
+
+
+Tools Used:
+VERACRYPT
+
