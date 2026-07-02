@@ -1,0 +1,19 @@
+               OSI MODEL
+  Open System Interconnection 
+It dictates how all network devices will send, receive and interprete data.
+ Layer 7 - Application layer
+ Layer 6 - Presentation layer
+ Layer 5 - Session layer
+ Layer 4 - Transport layer
+ Layer 3 - Network layer
+ Layer 2 - Data link layer
+ Layer 1 - Physical layer
+ 
+Application: Users interact with it  directly and its closer to end users eg. browsers uses HTTP/HTTPS
+Presentation: Ensures data from one system can be understood by the application on another system,it uses encryption and decryption.
+Session: manages a connection between two applications.
+Transport: ensures data is delivered end to end between applications reliably and in a correct order,uses TCP/UDP
+Network: delivers packets from source to destination device,uses IP address
+Datalink: responsible for providing a reliable link between two nodes of the same network,uses mac addresses
+Physical: deals with the actual physical transmission of data ovr mediums like cables,fibre,etc 
+
