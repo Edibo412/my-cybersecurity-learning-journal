@@ -1,0 +1,27 @@
+ NETWORK AND SYSTEM SECURITY
+Network: interaction between two or more connected devices over the internet.
+Internet: One giant network that consists of many small network within itself.
+  Devices must be identifying and identifiable on a network.
+
+IP address(internet protocol)
+MAC address(Media Access Control)
+
+IP address: divided into 4 octets used to identify a host on a netwok for a period of time. It's like the locaation,it changes
+It is divided into two:
+-IPV 4  -IPV 6
+
+DHCP(Dynamic Host Configuration Protocol): it automates the assignment of IP address
+Ping:one of the tools used to determine the performance of a connection
+Packets: small chunks of data sent out instead of sending a large piece at once.
+subnet mask: divides an IP address into 2 parts 
+
+Classes of IP Addresses
+Class A - E
+
+MAC Address:
+ It's like a name or a license on the device. it is physically hardwired on your device acting as its physical address on a local network to ensure data reaches the correct device 
+
+What i did: learnt about LAN,WAN,switches, routers,etc and how to use them for basic conection
+    
+
+   
