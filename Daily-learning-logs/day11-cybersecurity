@@ -1,0 +1,15 @@
+     CRYPTOGRAPHY
+ It is the practice and study of techniques for securing communication and data protection.It is used to enhance confidentiality,integrity and authenticity.
+
+Symmetric and Assymetric:
+   Symmetric(Private key Cryptography)
+It uses the same key to encrypt and decrypt the data.
+keeping the private key secret is very important.
+eg: DES-Data Encryption Standard
+    AES-Advanced Encryption Standard
+
+Assymetric(Public key cryptography)
+It uses same key for encryption and decryption, it uses a pair of key,Publickey to encrypt and private key to decrypt
+It uses RSA(Rivest,Shamir,Adleman)
+RSA is very secure
+
