@@ -1,0 +1,29 @@
+            PYTHON
+ Python is a beginner friendly programming language.It has important modules and functions that can be used in writing scripts in cybersecurity.
+ Files in python are saved with the extensions; .py or .ipynb
+
+Variables and Data types in python:
+  Variables are containers that holds values
+  An assignment operator "=" is used to assign values to variables 
+Ruless in naming variables:
+ -case sensitive
+ -Doesn't start with numbers
+ -Uses underscores instead of spaces
+ -No use of reserved words or special characters
+  etc
+
+Data types:
+ Strings,integers,floats,Booleans
+
+String formatting:
+ injecting variables into brackets
+
+String concatenation
+ string + string
+ string + variable
+ variable + variable
+ 
+WHAT I DID:
+   created variables and assigned values to them
+   learnt the input and print funcions
+   used the F string method to print different variables in sentence form.
