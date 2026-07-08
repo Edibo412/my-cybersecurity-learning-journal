@@ -1,0 +1,24 @@
+WHAT I LEARNT:
+   Digital Certificate- It ia an electronic document that verifies the identity of a an entity on the internet. It is an electronic "passport" that binds a public key to an entity(person,company) issued by a trusted third party called a certificate Authority CA eg. Digicert,let's encrypt
+                        It proves that you are actually sending your public key to a legitimate website and not to a hacker's faake site.
+   Uses of digital certificate:
+         -Authentication
+         -Encryption
+         -Digital signatures
+         -Secure web browsing
+
+   Hashing:This is converting an input in a fixed size length string of characters called hash/digest
+           Unlike Encryption,hashing is one way,meaning the original data cannot be recovered from the hash.
+   Uses of Hashing:
+    -Password storage
+    -data intergrity
+    -digital signatures
+    -Blockchain and cryptocurrencies
+    -File verification
+ 
+   Common HAsh Functions:
+    *MD5
+    *SHA-1
+    *SHA-256
+    *SHA-3
+
