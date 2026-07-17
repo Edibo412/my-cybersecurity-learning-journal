@@ -1,0 +1,15 @@
+PYTHON
+   ITERABLE OBJECTS
+        Entities capable of holding multiple items. This items can be iterated over using loops
+        examples; Tuple, list, Dictionary, Range
+        They have indexes or keys pointing to each value.
+     Tuple; Ordered,Immutable,allows duplicate
+     List: Ordered, changeable, allows duplicate
+     Dictionary: Collection of keys and values, Ordered,changeable
+
+WHAT I DID:
+  Created some tuples, list,dictionaries
+  Used index number to print some values at specific points
+  Used membership and identity operators on some of the iterable objects
+  Learnt how to add and remove data from a dictonary as a pair 
+                                                                   
