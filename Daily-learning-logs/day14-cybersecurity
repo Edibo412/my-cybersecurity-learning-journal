@@ -1,0 +1,23 @@
+ PYTHON
+ Datatype conversion 
+   Implicit data type conversion:Computer assigning data type automatically to values.
+   Explicit Data type conversion:programmers assigning data type to the values/data
+
+Input funtions 
+   It is used to collect data/input from users
+
+Operators
+  Special symbols that performs actions and produce result.
+  Types: Arithemetic Operators    
+         Assignment Operators        
+         Comparison Operators        
+         Logical Operators
+         Membership Operators(in,not in)
+         Identity Operators(is,is not)
+
+
+ WHAT I DID:
+     Data type conversion,used the input functions,used all the examples of the listed operators.
+
+
+
