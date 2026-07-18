@@ -1,0 +1,26 @@
+PYTHON
+  MODULE
+   It is a file that contains python codes. each module has an attribute that can bind and reference.
+   We have to import the modules before using them.
+   Eg Maths-addition,floor division...
+      Statistics-mean,mode.....
+      Hashlib-hashlibrary
+      Sockets- network connection
+      Scapy-packet sniffing
+      Random-Randint,choice...
+
+CONDITIONAL STATEMENTS
+  statement that portray conditions eg IF,ELIF, ELSE
+
+LOOPS
+  used for repetition and iterating
+ While Loop: keeps running if the condition is true
+ For Loop: used for iterating on certain conditions
+ Range Loops: used to loop through a range of numbers
+
+ What I Did:
+  practiced the atributes of the modules
+  used conditional statement 
+  practiced using loops
+  Built a rock, paper,scissors game by importing random,used loops and conditional statements
+  Also, Built a number game using the random module,loop and conditional statements.  
