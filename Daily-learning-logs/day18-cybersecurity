@@ -1,0 +1,16 @@
+   FUNCTIONS
+Functions are programs that perform certain actions and tasks
+
+Inbuilt Function: comes with python, already has a task it performs eg lambda
+
+User defined Functions: created by the user using the "def" keyword
+
+Types of arguements:
+ -Positional Arguements:They receive values that must be an orderly manner
+                        It must be placed in order
+ -Keyword Arguements: These arguements are assigned to the values individually in any manner
+
+Arbitrary Arguements: They accept unlimited values with a responding list of  arguements.
+
+What i did: 
+Created user defined functions and used them 
