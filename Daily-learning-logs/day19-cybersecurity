@@ -1,0 +1,14 @@
+  OBJECT ORIENTED PROGRAMMING (OOP)
+ This enables a programmer to capture, create and build objects in python.
+ It has functions:
+--Class: blue print of an object
+--Attributes: Th functionality of the object
+--Methods: Actions performed 
+--Objects: The entity built
+
+Types of Attributes 
+--Class Attribute: shared between 2 classes
+--Instance Attribute: unique attribute and is found in a one particular class
+
+What i did:
+ Built an online resturant system and a bank system using python
